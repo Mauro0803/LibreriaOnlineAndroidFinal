@@ -22,5 +22,8 @@ Esta es la primera versión de la interfaz de usuario para una aplicación móvi
 4. Ejecuta la aplicación en un emulador o dispositivo físico.
 
 ## Capturas de Pantalla
-[https://github.com/Mauro0803/LibreriaOnlineAndroidFinal/blob/master/screenshots/Screenshot_Pantalla_Principal.png]
-[(https://github.com/Mauro0803/LibreriaOnlineAndroidFinal/blob/master/screenshots/Screenshot_Pantalla_Detalle.png)]
+### Pantalla Principal
+![Captura de la Pantalla Principal](https://raw.githubusercontent.com/Mauro0803/LibreriaOnlineAndroidFinal/master/screenshots/Screenshot_Pantalla_Principal.png)
+
+### Pantalla de Detalles
+![Captura de la Pantalla de Detalles](https://raw.githubusercontent.com/Mauro0803/LibreriaOnlineAndroidFinal/master/screenshots/Screenshot_Pantalla_Detalle.png)
