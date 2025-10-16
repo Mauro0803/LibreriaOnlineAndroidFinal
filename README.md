@@ -23,7 +23,7 @@ Esta es la primera versión de la interfaz de usuario para una aplicación móvi
 
 ## Capturas de Pantalla
 ### Pantalla Principal
-![Captura de la Pantalla Principal](https://raw.githubusercontent.com/Mauro0803/LibreriaOnlineAndroidFinal/master/screenshots/Screenshot_Pantalla_Principal.png)
+![Captura de la Pantalla Principal](https://raw.githubusercontent.com/Mauro0803/LibreriaOnlineAndroidFinal/main/screenshots/Screenshot_Pantalla_Principal.png)
 
 ### Pantalla de Detalles
-![Captura de la Pantalla de Detalles](https://raw.githubusercontent.com/Mauro0803/LibreriaOnlineAndroidFinal/master/screenshots/Screenshot_Pantalla_Detalle.png)
+![Captura de la Pantalla de Detalles](https://raw.githubusercontent.com/Mauro0803/LibreriaOnlineAndroidFinal/main/screenshots/Screenshot_Pantalla_Detalle.png)
